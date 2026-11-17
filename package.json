@@ -1,0 +1,21 @@
+{
+  "name": "civicproof-ai",
+  "version": "1.0.0",
+  "description": "CivicProof AI – AI-powered independent verification of civic complaints",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
+  },
+  "keywords": [
+    "hackathon",
+    "civic-tech",
+    "gemini",
+    "ai-verification",
+    "fastapi",
+    "react"
+  ],
+  "author": "CivicProof AI Team",
+  "license": "MIT"
+}

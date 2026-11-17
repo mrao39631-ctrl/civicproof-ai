@@ -1,0 +1,35 @@
+# Dependencies
+frontend/node_modules/
+node_modules/
+.venv/
+env/
+venv/
+
+# Production build artifacts
+frontend/dist/
+dist/
+build/
+
+# Python byte-code and cache
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+
+# Local environment & secret variables
+.env
+.env.local
+.env.*.local
+
+# SQLite temporary and journal files
+*.db-shm
+*.db-wal
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE directories
+.vscode/
+.idea/
